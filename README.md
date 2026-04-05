@@ -1,22 +1,27 @@
 # Linux Terminal Greeter 🚀
 
-A customizable Linux startup greeter that opens a terminal on login,
-displays system information, ASCII art, and a poetic time-based greeting.
+A customizable Linux startup greeter that automatically opens a terminal on login, displays system information, ASCII art, and a poetic time-based greeting.
 
 ---
 
-## Features
+## ✨ Features
 
-- Automatic startup execution
+- Automatic terminal launch on login
 - Time-based dynamic greetings
-- neofetch system display
-- figlet + lolcat styling
-- User configuration support
-- One-command installation
+- System information via **neofetch**
+- Styled banner using **figlet + lolcat**
+- Lightweight and customizable
+- Simple installation
 
 ---
 
-## Installation
+## ⚠️ Requirements
+
+Tested on **XFCE-based Linux systems** (Kali Linux / Xubuntu).
+
+---
+
+## 📦 Installation
 
 Clone repository:
 
