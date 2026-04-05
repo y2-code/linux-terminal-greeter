@@ -54,3 +54,16 @@ Reboot Your System:
  ```bash
 reboot
 ```
+
+# 🚀 Usage
+
+Once installed, your terminal will greet you automatically on login. Enjoy dynamic messages, system stats, and ASCII art every time you start your Linux session!
+
+# 🤝 Contributing
+
+Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
+
+# 📄 License
+
+This project is MIT Licensed — see the LICENSE
+ file for details.
