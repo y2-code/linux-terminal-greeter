@@ -23,3 +23,10 @@ Clone repository:
 ```bash
 git clone https://github.com/<your-username>/linux-terminal-greeter.git
 cd linux-terminal-greeter
+
+sudo apt update
+sudo apt install neofetch figlet lolcat python3
+
+chmod +x startup.sh a.sh
+./a.sh
+reboot
