@@ -21,7 +21,7 @@ displays system information, ASCII art, and a poetic time-based greeting.
 Clone repository:
 
 ```bash
-git clone https://github.com/<your-username>/linux-terminal-greeter.git
+git clone https://github.com/y2-code/linux-terminal-greeter.git
 cd linux-terminal-greeter
 ```
 Install Required Packages:
@@ -33,12 +33,12 @@ sudo apt install neofetch figlet lolcat python3
 Make Scripts Executable:
 
 ```bash
-chmod +x startup.sh a.sh
+chmod +x startup.sh install.sh
 ```
 Install Autostart Configuration:
 
 ```bash
-./a.sh
+./install.sh
 ```
 Reboot Your System:
 
