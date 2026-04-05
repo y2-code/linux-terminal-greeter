@@ -2,6 +2,10 @@
 
 A customizable Linux startup greeter that automatically opens a terminal on login, displays system information, ASCII art, and a poetic time-based greeting.
 
+<p align="center">
+  <img src="assets/preview.png" alt="Preview"/>
+</p>
+
 ---
 
 ## ✨ Features
@@ -49,3 +53,4 @@ Reboot Your System:
 
  ```bash
 reboot
+```
