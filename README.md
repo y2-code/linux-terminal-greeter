@@ -54,10 +54,11 @@ Reboot Your System:
  ```bash
 reboot
 ```
-
 ## 🚀 Usage
 
-Once installed, your terminal will greet you automatically on login. Enjoy dynamic messages, system stats, and ASCII art every time you start your Linux session!
+Once installed, your terminal will greet you automatically on login. Enjoy dynamic messages, system stats, and ASCII art every time you start your Linux session!  
+
+> **Note:** At the end of the greeting, the terminal will display "Press Enter to exit...". The preview image shows "..." for aesthetics.
 
 ## 🤝 Contributing
 
