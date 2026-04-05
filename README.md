@@ -23,10 +23,24 @@ Clone repository:
 ```bash
 git clone https://github.com/<your-username>/linux-terminal-greeter.git
 cd linux-terminal-greeter
+```
+Install Required Packages:
 
+```bash
 sudo apt update
 sudo apt install neofetch figlet lolcat python3
+```
+Make Scripts Executable:
 
+```bash
 chmod +x startup.sh a.sh
+```
+Install Autostart Configuration:
+
+```bash
 ./a.sh
+```
+Reboot Your System:
+
+ ```bash
 reboot
